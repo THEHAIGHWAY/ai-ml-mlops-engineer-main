@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🗣️ ML/MLOps Engineer</h1>
   <p align="center">
-    🤗 <a href="https://www.linkedin.com/in/emmanuel-kuidjo">Follow Emmanuel KUIDJO</a> • 
+    🤗 Follow <a href="https://www.linkedin.com/in/emmanuel-kuidjo">Emmanuel KUIDJO</a> • 
     💻 <a href="https://www.linkedin.com/company/the-haighway">THE HAIGHWAY</a> • 
   </p>
 </div>
@@ -9,25 +9,80 @@
 
 ---
 
-[WIP]
+# About THE HAIGHWAY
 
-## 1. MLOps Principles and Workflow
+Welcome !!! Here is a quick presentation of **THE HAIGHWAY**. Feel free to skip to the [next section](#introduction) if you already know about us.
 
-## 2. ML Platform for MLOps
+**THE HAIGHWAY** is a training company in **AI, Data and Cloud**. Our mission is to help you upskill as you were on the job. We offer free and paid learning ressources in **English** & **French**.
 
-## 3. Machine Learning Development and Evaluation
+For more about our resources, read [here](https://github.com/THEHAIGHWAY/.github.git).
 
-## 4. Training Operationalization
+---
 
-## 5. Continuous Model Training
+# Introduction
 
-## 6. ML Deployment
+This repository is our main gateway for ML/MLOps Engineers. It provides a roadmap and ressources to upskill for this role. It introduces you to our other repositories for this role.
 
-## 7. Prediction Serving
+This repo is stil a **Work In Progress**. But you can already enjoy it.
 
-## 8. ML Monitoring
 
-## 9. Data and Model Management
+## The Basics
+
+Before starting this program, you need to acquire the basic skills for engineering roles in this [repository](https://github.com/THEHAIGHWAY/the-basics-for-eng-roles-in-cloud-data-ai-main.git).
+
+---
+
+## 1. Building Data and AI Products
+
+
+---
+
+## 2. Building an ML Platform for MLOps
+
+
+---
+
+## 3. Understanding the end-to-end MLOps Workflow
+
+
+---
+
+## 4. Business & Data Understanding
+
+
+---
+
+## 5. Machine Learning Development and Evaluation
+
+
+---
+
+## 6. Training Operationalization
+
+
+---
+
+## 7. Continuous Model Training
+
+
+---
+
+## 8. ML Deployment
+
+
+---
+
+## 9. Prediction Serving
+
+
+---
+
+## 10. ML Monitoring
+
+
+---
+
+## 11. Data and Model Management
 
 
 ---
